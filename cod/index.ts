@@ -6,7 +6,7 @@ function sum(a:number, b:number) {
     return a + b;
 }
 
-
+server.listen(300, () >= console.log("server On porta 300"));
 
 
 
