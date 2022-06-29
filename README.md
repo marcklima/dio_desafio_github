@@ -1,6 +1,4 @@
 # Learn-GitHub
- Aprendendo GitHUb com Guanaba | Curso em Video
+ Aprendendo GitHUb com DIO 
 
  Essa linha foi adicionada no ambiente Atom editor
-
-Essa linha confirma a edição feita pelo VScode
