@@ -2,17 +2,20 @@
 
 
 
-# Learn-GitHub
+# Desafio de projeto DIO, sobre GitHub.
  Aprendendo GitHUb com DIO 
  
  ## Links Úteis 
  
- [ Sintaxe basica MArkdown ] ( https://www.markdownguide.org/ )
+**[Sintaxe Markdown](https://www.markdownguide.org/)** 
  
  
  <hr>
 
- Essa linha foi adicionada no ambiente Atom editor
+> Sucesso é resultado de foco com disciplina <p>
+> Fica a **dica** ! <p>
+*By Marcelo Lima*. <p>
+ ; )
  
  <hr>
  
