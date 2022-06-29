@@ -1,0 +1,23 @@
+Para clonar um repositório do github vocÊ deve copiar a pasta no site do github
+logo apos copiado deve-se criar uma pasta no disco local do pc, se for windows após criar a pasta local
+deve- se clicar o botão direito do mouse e abri o git bash
+se tudo for bem será exibido uma janela do git em ambiente de código
+para navegar nesse ambiente git pode ultilizar os comandos do command-MS (cmd)
+para baixar a pasta do projeto na pasta criada no pc deve-se usar o comando :
+git clone 
+ex: git clone https://github.com/marcklima/dio_desafio_github.git
+com esse código será baixado no local da pasta o projeto clonado
+apos o  download pode-se verificar pelo explorer ou comando 'dir' para visaulizar a arquvore de arquivos
+quando adicionamos ou editamos algo há a necessidade de controlar a edição gerando uma nova versão do código
+com o comando git status 
+é exibido as alterações do codigo
+com o comando git add .
+se faz o controle de versao no ambiente local
+com o comando git commit -m "texto explicando as mudnças no codigo"
+podemos declara as mudanças no codigo mas ainda não foi feito o upload da versão para o github
+para o aatualizar a versão no github é necessário o comando:
+git push origin main
+logo apos pode ser conferido no github e/ou comando git status
+
+
+
